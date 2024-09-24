@@ -37,3 +37,11 @@ i {
 .footer-p {
     padding-bottom: 20px;
 }
+.footer-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-right-icon i {
+    padding: 20px;
+}
