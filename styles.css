@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+.wrapper {
+    width: 400px;
+    margin: 100px auto;
+    background-color: white;
+    align-items: center;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 100%;
+    
+}
+.left-icon-header, .right-icon-header {
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+}
+p {
+    padding: 0 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-style: normal;
+}
+i {
+    font-size: 30px;
+}
+.footer-left-icons {
+    padding: 12px;
+    
+}
+.footer-p {
+    padding-bottom: 20px;
+}
